@@ -2,6 +2,7 @@
     "userspace_version": "1.0",
     "build_targets": [
         ["thevankeyboards/bananasplit", "bbhatti"],
-        ["ymdk/yd60mq/16led", "bbhatti"]
+        ["ymdk/yd60mq/16led", "bbhatti"],
+        ["alps64", "bbhatti"]
     ]
 }
