@@ -3,6 +3,7 @@
     "build_targets": [
         ["thevankeyboards/bananasplit", "bbhatti"],
         ["ymdk/yd60mq/16led", "bbhatti"],
-        ["alps64", "bbhatti"]
+        ["alps64", "bbhatti_hhkb"],
+        ["alps64", "bbhatti_aek_103"]
     ]
 }
